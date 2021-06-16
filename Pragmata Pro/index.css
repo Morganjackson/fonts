@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Pragmata Pro Mono';
+    src: url('fonts/PragmataProMono-BoldItalic.eot');
+    src: local('Pragmata Pro Mono Bold Italic'), local('PragmataProMono-BoldItalic'),
+        url('fonts/PragmataProMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataProMono-BoldItalic.woff2') format('woff2'),
+        url('fonts/PragmataProMono-BoldItalic.woff') format('woff'),
+        url('fonts/PragmataProMono-BoldItalic.ttf') format('truetype'),
+        url('fonts/PragmataProMono-BoldItalic.svg#PragmataProMono-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro';
+    src: url('fonts/PragmataPro-Italic.eot');
+    src: local('Pragmata Pro Italic'), local('PragmataPro-Italic'),
+        url('fonts/PragmataPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataPro-Italic.woff2') format('woff2'),
+        url('fonts/PragmataPro-Italic.woff') format('woff'),
+        url('fonts/PragmataPro-Italic.ttf') format('truetype'),
+        url('fonts/PragmataPro-Italic.svg#PragmataPro-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro';
+    src: url('fonts/PragmataPro-Bold.eot');
+    src: local('Pragmata Pro Bold'), local('PragmataPro-Bold'),
+        url('fonts/PragmataPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataPro-Bold.woff2') format('woff2'),
+        url('fonts/PragmataPro-Bold.woff') format('woff'),
+        url('fonts/PragmataPro-Bold.ttf') format('truetype'),
+        url('fonts/PragmataPro-Bold.svg#PragmataPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro';
+    src: url('fonts/PragmataPro-BoldItalic.eot');
+    src: local('Pragmata Pro Bold Italic'), local('PragmataPro-BoldItalic'),
+        url('fonts/PragmataPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataPro-BoldItalic.woff2') format('woff2'),
+        url('fonts/PragmataPro-BoldItalic.woff') format('woff'),
+        url('fonts/PragmataPro-BoldItalic.ttf') format('truetype'),
+        url('fonts/PragmataPro-BoldItalic.svg#PragmataPro-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro Mono';
+    src: url('fonts/PragmataProMono-Italic.eot');
+    src: local('Pragmata Pro Mono Italic'), local('PragmataProMono-Italic'),
+        url('fonts/PragmataProMono-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataProMono-Italic.woff2') format('woff2'),
+        url('fonts/PragmataProMono-Italic.woff') format('woff'),
+        url('fonts/PragmataProMono-Italic.ttf') format('truetype'),
+        url('fonts/PragmataProMono-Italic.svg#PragmataProMono-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro Mono';
+    src: url('fonts/PragmataProMono-Bold.eot');
+    src: local('Pragmata Pro Mono Bold'), local('PragmataProMono-Bold'),
+        url('fonts/PragmataProMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataProMono-Bold.woff2') format('woff2'),
+        url('fonts/PragmataProMono-Bold.woff') format('woff'),
+        url('fonts/PragmataProMono-Bold.ttf') format('truetype'),
+        url('fonts/PragmataProMono-Bold.svg#PragmataProMono-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro Mono';
+    src: url('fonts/PragmataProMono-Regular.eot');
+    src: local('Pragmata Pro Mono Regular'), local('PragmataProMono-Regular'),
+        url('fonts/PragmataProMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataProMono-Regular.woff2') format('woff2'),
+        url('fonts/PragmataProMono-Regular.woff') format('woff'),
+        url('fonts/PragmataProMono-Regular.ttf') format('truetype'),
+        url('fonts/PragmataProMono-Regular.svg#PragmataProMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pragmata Pro';
+    src: url('fonts/PragmataPro-Regular.eot');
+    src: local('Pragmata Pro Regular'), local('PragmataPro-Regular'),
+        url('fonts/PragmataPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PragmataPro-Regular.woff2') format('woff2'),
+        url('fonts/PragmataPro-Regular.woff') format('woff'),
+        url('fonts/PragmataPro-Regular.ttf') format('truetype'),
+        url('fonts/PragmataPro-Regular.svg#PragmataPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
